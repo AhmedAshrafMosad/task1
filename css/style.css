@@ -1,0 +1,58 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: rgb(245, 245, 245);
+}
+/* start first section */
+.first_sec img
+{
+    border-radius: 30px;
+    margin-top:70px;
+}
+.first_sec p
+{
+    font-size: 22px;
+}
+.first_sec h2
+{
+    font-size: 50px;
+}
+.first_sec a
+{
+    font-weight: 600;
+    
+    
+}   
+/* end first section */
+
+/* start second section */
+.second_sec h2
+{
+    font-size: 50px;
+}
+.second_sec p
+{
+    font-size: 22px;
+}
+.second_sec a
+{
+    
+    font-weight: 600;
+}
+.second_sec input
+{
+    font-weight: 600;
+    border: 2px solid rgb(218, 215, 215);
+    border-radius: 7px;
+    
+}
+
+.last
+{
+    border: none !important;
+}
+/* end second section */
